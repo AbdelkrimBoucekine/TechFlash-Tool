@@ -30,20 +30,8 @@ This script will reconfigure your Raspberry Pi to use the LCD screen as the defa
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Prerequisites
-This device utilizes Python and Kivy for the user interface, along with system tools for USB management and device flashing. Here are the steps to set up your Ubuntu environment:
+# Prerequisites
+# This device utilizes Python and Kivy for the user interface, along with system tools for USB management and device flashing. Here are the steps to set up your Ubuntu environment:
 
 Install Python
 Ubuntu usually comes with Python pre-installed, but you can ensure you have the latest version of Python 3 and pip (Python's package manager):
