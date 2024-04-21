@@ -10,6 +10,7 @@ Install Python
 Ubuntu usually comes with Python pre-installed, but you can ensure you have the latest version of Python 3 and pip (Python's package manager):
 
 bash
+
 '''
 sudo apt update
 sudo apt install python3 python3-pip
